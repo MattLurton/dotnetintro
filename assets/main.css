@@ -1,0 +1,35 @@
+body {
+background-color: #f2f2f2;
+}
+
+.password {
+font-size: 30px;
+}
+
+.navbar-color {
+	background-color: #6699ff;
+}
+
+.jumbotron{
+   background: url(../assets/img_3956.jpg) no-repeat center top;
+   background-image: ("../assets/img_3956.jpg");
+   background-position-x: center;
+   background-position-y: center;
+   background-size: cover;
+   background-repeat-x: no-repeat;
+   background-repeat-y: no-repeat;
+   background-origin: initial;
+   padding-top: 5px;
+   background-attachment: relative;
+   background-position: center center;
+   min-height: 700px;
+   width: 100%;
+   -webkit-background-size: 100%;
+   -moz-background-size: 100%;
+   -o-background-size: 100%;
+   background-size: 100%;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   color: #000033;
