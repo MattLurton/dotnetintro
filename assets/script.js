@@ -64,3 +64,11 @@ var randomNum = Math.floor((Math.random() * 10) + 1);
 
 // Write the number into that element
 el.innerHTML = '<h2>random number</h2><p>' + randomNum + '</p>';
+
+
+
+var saying = 'Home Sweet Home';
+
+var message = '<h2>Lower:</h2><h1>' + saying.[11] + '</h1>';
+
+var element =document.getElementById('messageInABottle').innerHTML = message;
