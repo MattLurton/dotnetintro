@@ -1,0 +1,48 @@
+the basics
+
+
+
+
+int i = 0;
+short sh = 32767;
+long l = 0;
+byte by = 255;
+char c = 'i';
+bool b = true;
+
+decimel d = 7.8m;
+double dbl = 7.80f;
+float f = 10.8;
+
+
+enum DayOfWeek
+{
+    Sunday,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday.
+    Friday,
+    Saturday
+}
+DayOfWeek day = DayOfWeek.Tuesday;
+
+
+
+//Comment 1
+/*
+ * Comment
+ * */
+
+object 0 = new object();
+
+string s = "a string";
+string s2 = "This is a \r\multi-line string";
+string s3 = @"This is a \r\nverbatim string";
+
+Console.WriteLine(s2);
+Console.WriteLine(s3);
+
+int? nullInt = null;
+
+var x = "abc";
